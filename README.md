@@ -171,7 +171,7 @@ https://github.com/1974892005/Capture-video/blob/master/%E5%9B%BE%E5%83%8F/ico.j
 
 |#|语法|效果|
 |---|----|:---:|
-|1|`[![weibo-logo]](http://weibo.com/linpiaochen)`|[![weibo-logo]](http://weibo.com/linpiaochen)|
+|1|`[![weibo-logo]](http://weibo.com/)`|[![weibo-logo]](http://weibo.com/)|
 |2|`[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]`|[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]|
 |3|`[![csdn-logo]][csdn]`|[![csdn-logo]][csdn]|
 
